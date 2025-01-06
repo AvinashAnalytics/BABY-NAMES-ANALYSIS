@@ -60,3 +60,16 @@ To run the project, you need:
    ```bash
    git clone https://github.com/avinashanalytics/baby-names-analysis.git
    cd baby-names-analysis
+
+
+
+
+   ## License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Thanks to the **Social Security Administration (SSA)** for providing the baby names dataset.
+
+## About the Author
+This project was created by **[Avinash Analytics](https://github.com/avinashanalytics)**. I am a passionate data analyst who loves exploring data and uncovering valuable insights. In this project, I used my skills in **data manipulation**, **visualization**, and **machine learning** to uncover trends in baby names over time. Feel free to explore this repository and contact me for any questions or feedback.
+
