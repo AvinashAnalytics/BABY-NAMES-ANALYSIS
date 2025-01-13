@@ -1,6 +1,6 @@
 # 👶 **Analyzing Naming Trends Using Python** 📊
 
-<img src="https://tse1.mm.bing.net/th?id=OIG3.ZDFb_8EKkX4gUMkxzZYg&pid=ImgGn" alt="Image Description" width="600" height="300">
+<img src="https://tse1.mm.bing.net/th?id=OIG3.ZDFb_8EKkX4gUMkxzZYg&pid=ImgGn" alt="Image Description" width="500" height="300">
 
 
 ### **✨ Project Overview:**
