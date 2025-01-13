@@ -1,6 +1,6 @@
 # 👶 **Analyzing Naming Trends Using Python** 📊
 
-<div style="text-align: center;">
+<div  align="center">
   <img src="https://tse1.mm.bing.net/th?id=OIG3.ZDFb_8EKkX4gUMkxzZYg&pid=ImgGn" alt="hehehe" width="500" height="300">
 </div>
 
